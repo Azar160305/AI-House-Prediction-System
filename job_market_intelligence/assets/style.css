@@ -1,0 +1,6 @@
+.stApp { background: #f5f7fb; color: #17243a; }
+[data-testid="stSidebar"] { background: #10243d; }
+[data-testid="stSidebar"] * { color: #f2f6fc; }
+h1, h2, h3 { color: #10243d; }
+[data-testid="stMetric"] { background: white; border: 1px solid #e1e8f0; border-radius: 12px; padding: 16px; box-shadow: 0 3px 12px #10243d0c; }
+div[data-testid="stAlert"] { border-radius: 10px; }

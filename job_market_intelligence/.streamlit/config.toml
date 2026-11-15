@@ -1,0 +1,3 @@
+[server]
+# Streamlit's file_uploader limit is expressed in megabytes.
+maxUploadSize = 1024
